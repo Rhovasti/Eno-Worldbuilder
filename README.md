@@ -57,7 +57,3 @@ This project follows Python code style guidelines outlined in PEP 8. See `CLAUDE
 This project is licensed under the terms of the included LICENSE file.
 
 This document will be updated as the project progresses.
-
-## License
-
-This project is licensed under the terms of the included LICENSE file.
